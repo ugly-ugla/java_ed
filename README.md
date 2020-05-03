@@ -6,22 +6,22 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org).
 
 #### Topics
 
-+ Types and variables
-+ STDIN / STDOUT
-+ Arithmetic operations
-+ Boolean operations
-+ Increment && Decrement
-+ Basic String methods
-+ for, for...in, while, do...while loops
-+ branching statements
++ Types and variables;
++ STDIN / STDOUT;
++ Arithmetic operations;
++ Boolean operations;
++ Increment && Decrement;
++ Basic String methods;
++ For, for...in, while, do...while loops;
++ Branching statements.
 
 ## [Coffee Machine](https://hyperskill.org/projects/33?goal=7 "Coffee Machine")
 
 #### Topics
 
-+ Linux CLI
-+ switch statement
-+ intro to OOP
-+ classes
-+ public, static, final keywords
-+ enum
++ Linux CLI;
++ Switch statement;
++ Intro to OOP;
++ Classes;
++ Public, static, final keywords;
++ Enum.
