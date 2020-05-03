@@ -1,6 +1,6 @@
 package machine;
 
-import java.util.*;
+mport java.util.*;
 
 public class CoffeeMachine {
     Scanner scanner = new Scanner(System.in);
