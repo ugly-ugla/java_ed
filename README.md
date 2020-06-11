@@ -1,7 +1,4 @@
 # java_ed
-<<<<<<< HEAD
-Repo for learning Java on Hyperskill
-=======
 
 Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org).
 
@@ -28,4 +25,3 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org).
 + Classes;
 + Public, static, final keywords;
 + Enum.
->>>>>>> f48a75fca7a017c700068931f5d71c8bfd4de596
