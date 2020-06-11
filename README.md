@@ -1,2 +1,2 @@
 # java_ed
-Repo for learn Java
+Repo for learning Java on Hyperskill
