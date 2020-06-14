@@ -6,8 +6,6 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org). From lo
 
 ### [Simple Chatty Bot](https://hyperskill.org/projects/31?goal=7 "Simple Chatty Bot")
 
-#### Topics
-
 + Types and variables;
 + STDIN / STDOUT;
 + Arithmetic operations;
@@ -19,8 +17,6 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org). From lo
 
 ### [Coffee Machine](https://hyperskill.org/projects/33?goal=7 "Coffee Machine")
 
-#### Topics
-
 + Linux CLI;
 + Switch statement;
 + Intro to OOP;
@@ -30,15 +26,11 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org). From lo
 
 ### [TicTacToe](https://hyperskill.org/projects/48?goal=7 "TicTacToe")
 
-#### Topics
-
 + Binary Numers, Binary Arithmetics
 
 ## Medium
 
 ### Numeral System Converter
-
-#### Topics
 
 + Implemented methods to convert numbers from String and back again
 + Foreach in Java
@@ -48,3 +40,9 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org). From lo
 + Inheritance and multi-classes inherritance (not possible in Java)
 + Exceptions, exceptions handling
 + try-catch-finally construction
+
+### [Readability Score](https://hyperskill.org/projects/39?goal=7 "Readability Score")
+
++ CLI arguments
++ java.io.File
++ Math library
