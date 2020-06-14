@@ -26,23 +26,23 @@ Repo for learn Java. Projects from [HYPERSKILL](https://hyperskill.org). From lo
 
 ### [TicTacToe](https://hyperskill.org/projects/48?goal=7 "TicTacToe")
 
-+ Binary Numers, Binary Arithmetics
++ Binary Numers, Binary Arithmetics.
 
 ## Medium
 
-### Numeral System Converter
+### [Numeral System Converter](https://hyperskill.org/projects/41?goal=7 "Numeral System Converter")
 
-+ Implemented methods to convert numbers from String and back again
-+ Foreach in Java
-+ Float-pointing types
-+ StringBuilder methods
-+ Classes and Objects: constructors, getters, setters
-+ Inheritance and multi-classes inherritance (not possible in Java)
-+ Exceptions, exceptions handling
-+ try-catch-finally construction
++ Implemented methods to convert numbers from String and back again;
++ Foreach in Java;
++ Float-pointing types;
++ StringBuilder methods;
++ Classes and Objects: constructors, getters, setters;
++ Inheritance and multi-classes inherritance (not possible in Java);
++ Exceptions, exceptions handling;
++ try-catch-finally construction.
 
 ### [Readability Score](https://hyperskill.org/projects/39?goal=7 "Readability Score")
 
-+ CLI arguments
-+ java.io.File
-+ Math library
++ CLI arguments;
++ java.io.File;
++ Math library.
